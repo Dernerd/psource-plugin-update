@@ -1,3 +1,3 @@
 === Angepasste Version des Update-Checkers ===
 
-Bitte 'plugin-update-checker' an das jeweilige Plugin (Sprachfiles) anpassen.
+Bitte 'psource-plugin-updater' an das jeweilige Plugin (Sprachfiles) anpassen.
